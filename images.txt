@@ -1,3 +1,1 @@
-alpine
-kasmkeb/nginx:1.25.3
 homeassistant/home-assistant
